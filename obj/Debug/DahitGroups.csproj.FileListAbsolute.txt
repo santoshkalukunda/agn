@@ -1,0 +1,11 @@
+C:\Users\SK\Documents\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe.config
+C:\Users\SK\Documents\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe
+C:\Users\SK\Documents\DahitGroups\DahitGroups\bin\Debug\DahitGroups.pdb
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.csprojResolveAssemblyReference.cache
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form1.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Properties.Resources.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.csproj.GenerateResource.Cache
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.exe
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.pdb
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form2.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form3.resources

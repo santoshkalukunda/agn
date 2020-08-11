@@ -1,0 +1,60 @@
+C:\Users\SK\Documents\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe.config
+C:\Users\SK\Documents\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe
+C:\Users\SK\Documents\DahitGroups\DahitGroups\bin\Debug\DahitGroups.pdb
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\Farwestern Regional AG Nepal.csprojResolveAssemblyReference.cache
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form1.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form2.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form3.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Properties.Resources.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\Farwestern Regional AG Nepal.csproj.GenerateResource.Cache
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.exe
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.pdb
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmParticulars.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmVaucherMd.resources
+C:\Users\SK\Documents\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Account.resources
+E:\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe.config
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.exe
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.pdb
+E:\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe
+E:\DahitGroups\DahitGroups\bin\Debug\DahitGroups.pdb
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form2.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form3.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmParticulars.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmVaucherMd.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Properties.Resources.resources
+E:\DahitGroups\DahitGroups\obj\Debug\Farwestern Regional AG Nepal.csproj.GenerateResource.Cache
+E:\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe.manifest
+E:\DahitGroups\DahitGroups\bin\Debug\DahitGroups.application
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.exe.manifest
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.application
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form4.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmDelete.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Farwestern_Regional_AG_Nepal.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.About_Developer.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Opening_Balance.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Login.resources
+E:\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Password.resources
+E:\DahitGroups\DahitGroups\obj\Debug\Farwestern Regional AG Nepal.csprojResolveAssemblyReference.cache
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe.config
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.exe
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.pdb
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe.manifest
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\bin\Debug\DahitGroups.application
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\bin\Debug\DahitGroups.exe
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\bin\Debug\DahitGroups.pdb
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\Farwestern Regional AG Nepal.csprojResolveAssemblyReference.cache
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.About_Developer.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Farwestern_Regional_AG_Nepal.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form2.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form3.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Form4.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmDelete.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmParticulars.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.frmVaucherMd.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Login.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Opening_Balance.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Password.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.Properties.Resources.resources
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\Farwestern Regional AG Nepal.csproj.GenerateResource.Cache
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.exe.manifest
+C:\Users\jk\Videos\New folder (5)\DahitGroups\DahitGroups\obj\Debug\DahitGroups.application
